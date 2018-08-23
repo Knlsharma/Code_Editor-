@@ -3,3 +3,13 @@ A Java compiler is a compiler for the programming language Java. The most common
 Most Java-to-bytecode compilers, Jikes being a well known exception, do virtually no optimization, leaving this until run time to be done by the JRE.[citation needed]
 
 The Java virtual machine (JVM) loads the class files and either interprets the bytecode or just-in-time compiles it to machine code and then possibly optimizes it using dynamic compilation.
+
+ SETUP
+ 1. Need of java to be installed in  required system.
+ 2. Import editor.java (Logic class).
+ 
+ 
+ RUN
+ 1. Either you can use IDE or CMD.
+ 2. clean and build.
+ 3. run
